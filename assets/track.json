@@ -1,0 +1,54 @@
+{
+    "userid": "id1432235",
+    "trackid": "track43563452",
+    "url": "../uploads/test.mp3",
+    "pic": "../uploads/pic11.jpg",
+    "title": "Rock is dead",
+    "artist": "Marlyn Manson",
+    "likes": {
+        "counter": "2344",
+        "like": "true"
+    },
+    "comments": {
+        "counter": "23",
+        "comment": [
+            {
+                "avatar": "../uploads/pic1.jpg",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                "userName": "Monroe",
+                "userLink": "../user/Monroe",
+                "likes": "34",
+                "like": "false",
+                "date": "01.01.2015",
+                "time": "10:10",
+                "userid": "id1432235",
+                "commentid": "comment43543532"
+            },
+            {
+                "avatar": "../uploads/avatar.jpg",
+                "body": "AbraCadabra ",
+                "userName": "Tester",
+                "userLink": "../user/Tester",
+                "likes": "12",
+                "like": "true",
+                "date": "01.11.2005",
+                "time": "20:13",
+                "userid": "id1432235",
+                "commentid": "comment43543531"
+            }
+        ]
+    },
+    "bought": {
+        "counter": "12",
+        "status": "bought"
+    },
+    "info": {
+        "artist": "Marlyn Manson",
+        "genres": "Rock",
+        "label": "Hairy Claw",
+        "released": "16.06.2011",
+        "bmp": "120",
+        "key": "A#min",
+        "length": "1:43"
+    }
+}
